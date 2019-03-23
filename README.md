@@ -1,6 +1,6 @@
 Prosit Maker : Générateur de Prosit Aller et de CER
 
-Version 2.0.1
+Version 2.0.2
 
 Génération de Prosit Aller :
   
