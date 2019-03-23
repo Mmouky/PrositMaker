@@ -4,7 +4,7 @@ Version 2.0.1
 
 Génération de Prosit Aller :
   
-  Plusieurs onglets afin de renseigner les différentes informations : 
+  - Plusieurs onglets afin de renseigner les différentes informations : 
     
     - Informations :
     
